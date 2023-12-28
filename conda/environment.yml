@@ -1,0 +1,29 @@
+name: Detective_ConcreteCracks
+
+channels:
+    - pytorch
+    - nvidia
+
+dependencies:
+    - python>=3.9.0
+    - jupyter
+    - scikit-learn
+    - scipy
+    - pandas
+    - matplotlib
+    - pytorch-cuda=11.8
+    - seaborn
+    - torchaudio
+    - torchvision
+    - pip>=19.0
+    
+    - pip:
+        # For data versioning. 
+        - dvc
+        - dvc-azure
+        # For image manipulation. 
+        - opencv-python
+        - ultralytics
+        - roboflow
+  
+

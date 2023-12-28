@@ -20,3 +20,5 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+notebooks/datasets
+Detective_ConcreteCracks/

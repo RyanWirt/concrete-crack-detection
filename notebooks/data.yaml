@@ -1,0 +1,15 @@
+names:
+- Bullet_imapct
+- Explosion_Impact
+- normal_crack
+- severe_crack
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: concrete-cracks-detection-kyzaz
+  url: https://universe.roboflow.com/ensi-t8obt/concrete-cracks-detection-kyzaz/dataset/7
+  version: 7
+  workspace: ensi-t8obt
+test: test/images
+train: train/images
+val: valid/images

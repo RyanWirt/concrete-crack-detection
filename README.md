@@ -1,2 +1,2 @@
 # concrete-crack-detection
-Sample project for DS training. 
+Sample project for DS training.
